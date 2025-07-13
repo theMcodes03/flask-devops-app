@@ -24,4 +24,4 @@ jobs:
 
     - name: Test Flask App Start (Optional)
       run: |
-        echo "✅ Flask App Code Checked"
+        echo "Flask App Code Checked"
